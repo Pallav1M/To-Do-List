@@ -8,7 +8,6 @@ This repository contains two files - one HTML and one JavaScript.
 This project is used to add a new to-do list, list all the to-dos, delete a to-do, and you may also quit the to-do app. Please use the console (Inspect --> Console) to view the changes. 
 
 Enter the following to perform the above functionalities - 
-
 "new" - Add a new to-do list
 "list" - List all Todos
 "delete" - Deletes the Specific todo
